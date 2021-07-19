@@ -1,0 +1,4 @@
+kantinpsiko.fwl.old filter=lfs diff=lfs merge=lfs -text
+kantinpsiko.db filter=lfs diff=lfs merge=lfs -text
+kantinpsiko.db.old filter=lfs diff=lfs merge=lfs -text
+kantinpsiko.fwl filter=lfs diff=lfs merge=lfs -text
